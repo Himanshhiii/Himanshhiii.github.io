@@ -1,7 +1,4 @@
-import { DATA } from "@/data/data"
 
-import { ArrowRightUp } from "@/components/ui/icons"
-import { LinkPreview } from "@/components/ui/link-preview"
 
 export function Blogs() {
   return (
